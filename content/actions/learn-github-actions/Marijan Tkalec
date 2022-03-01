@@ -12,7 +12,8 @@ redirect_from:
   - /github/automating-your-workflow-with-github-actions/about-github-actions
   - /actions/automating-your-workflow-with-github-actions/about-github-actions
   - /github/automating-your-workflow-with-github-actions/getting-started-with-github-actions
-  - /actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions
+  - /actions/automating-your-workflow-with-github-actions/getting-started-with-github-
+actio s
 versions:
   fpt: '*'
   ghes: '*'
